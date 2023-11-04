@@ -1,6 +1,1 @@
-git init
-git add img1.png
-git commit -m "Add image"
-git remote add origin https://github.com/Sabiullah/BizCardX/Images.git 
-git branch -M main 
-git push -u origin main
+
