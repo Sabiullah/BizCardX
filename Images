@@ -1,1 +1,3 @@
-
+git init
+git add img1.png
+git commit -m "Add image"
