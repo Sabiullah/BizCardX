@@ -33,3 +33,4 @@ BizCardX is a user-friendly tool for extracting information from business cards.
 + Further with the help of MODIFY menu the uploaded data’s in SQL Database can be accessed for Read, Update and Delete Operations.
 
  
+My LinkedIn video - https://www.linkedin.com/posts/sabiullah-noor-mohamed-83507386_softwaredevelopment-python-streamlit-activity-7126959359389011968-CqbX?utm_source=share&utm_medium=member_desktop
